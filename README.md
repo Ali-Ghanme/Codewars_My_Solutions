@@ -18,7 +18,7 @@
 <img align="left" alt="vscode" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-original.svg" style="padding-right:10px;" />
 <img align="left" alt="vscode" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" style="padding-right:10px;" />
 <br />
-<br />
+
 ### Languages and Tools:
 
 <img align="left" alt="vscode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
