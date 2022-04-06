@@ -33,14 +33,14 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="vscode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Gatsby" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Node.js" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="MongoDB" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][reactplaylist]
+[<img align="left" alt="vscode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+[<img align="left" alt="Gatsby" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" style="padding-right:10px;" />
+[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />
+[<img align="left" alt="Node.js" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" style="padding-right:10px;" />
+[<img align="left" alt="MongoDB" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" style="padding-right:10px;" />
+[<img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" style="padding-right:10px;" />
+[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 <br />
 <br />
