@@ -34,6 +34,11 @@
 <img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" style="padding-right:10px;" />
 
 <br />
 <br />
