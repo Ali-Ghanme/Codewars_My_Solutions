@@ -29,7 +29,6 @@
 <img align="left" alt="MongoDB" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" style="padding-right:10px;" />
